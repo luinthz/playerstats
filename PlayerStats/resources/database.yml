@@ -1,8 +1,8 @@
 # Connexion a la base de donnée :
 
-host : "185.157.247.102:3306"
-username : "u4983_7uPVyvewrU"
-password : "!^97B7GI=nTKGp+^gQSxLKO2"
-database : "s4983_vraihighcraft"
+host : ""
+username : ""
+password : ""
+database : ""
 
 # Une fois le serveur lancé, une table nommé "Stats" devrait se crée dans votre database.
