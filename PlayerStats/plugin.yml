@@ -1,0 +1,9 @@
+name : PocketLogs
+author : L.U
+version : 1.0.0
+api : [5.0.0]
+main : pocketlogs\lu\Main
+
+permissions:
+  stats.cmd:
+    default: true # Tout le monde a accès
